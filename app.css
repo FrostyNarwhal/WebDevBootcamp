@@ -1,0 +1,27 @@
+h1 {
+	/*color: red;*/
+	color: #FF8877;
+	/*border-color: black;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 3px solid yellow;
+}
+
+li {
+	/*color: green;*/
+	color: rgb(0,255,0);
+
+}
+
+h4 {
+	/*color: purple;*/
+	color: rgba(0,233,123,0.6);
+	background: rgb(240,100,70);
+}
+
+body {
+/*	background: pink;*/
+	background: url(https://static.pexels.com/photos/20787/pexels-photo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}

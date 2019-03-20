@@ -1,0 +1,17 @@
+body {
+	background: orange;
+}
+
+/*ID = #, for single element on page only*/
+#dif {
+	background: yellow;
+}
+
+li {
+	border: 2px solid red;
+}
+
+/*class = "."*/
+.completed {
+	text-decoration: line-through;
+}

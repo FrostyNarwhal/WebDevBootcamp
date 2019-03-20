@@ -1,0 +1,41 @@
+/* element */
+li {
+
+}
+
+/* class */
+.hello {
+
+}
+
+/* id */
+#name {
+
+}
+
+/* star selector - everything on the page */
+* {
+
+}
+
+/* Descendant Selector */
+li a {
+	/* example: every a tag that's inside an li*/
+}
+
+/* Adjacent Selector */
+h4 + ul {
+	border: 4px solid red;
+	/* all ul's after/on the same level as the h4 instead of inside*/
+}
+
+/* Attribute Selector */
+a[href="http://www.google.com"] {
+	background: blue
+}
+
+/* nth of type */
+ul:nth-of-type(3){
+	background: purple;
+}
+
